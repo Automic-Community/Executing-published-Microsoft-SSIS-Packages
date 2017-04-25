@@ -9,7 +9,7 @@ http://github.com/Automic-Community/Executing-published-Microsoft-SSIS-Packages
 Contents of Solution Package:
 
 						
-								*PCK.CUSTOM_EXECUTE_SSIS_PACKAGES_1.5.0.zip
+								*PCK.CUSTOM_EXECUTE_SSIS_PACKAGES_1.5.1.zip
 								
 								*SSISPackageDocu.pdf
 								
