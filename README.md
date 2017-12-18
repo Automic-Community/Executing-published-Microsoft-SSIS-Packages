@@ -9,13 +9,15 @@ http://github.com/Automic-Community/Executing-published-Microsoft-SSIS-Packages
 Contents of Solution Package:
 
 						
-								*PCK.CUSTOM_EXECUTE_SSIS_PACKAGES_1.5.1.zip
+								*PCK.CUSTOM_EXECUTE_SSIS_PACKAGES_2.2.0.zip
 								
-								*SSISPackageDocu.pdf
+								*SSISPackageDocu_2.pdf
 								
-								*SSIS_SysParams.PNG
+								*SSISReport.PNG
 								
-								*SSISParametzers.PNG
+								*SSISPackageChooser.PNG
+								
+								*SSISPackageParams.PNG
 								
 								*GetEnvironment.PNG
 								
@@ -26,7 +28,6 @@ Documenation and Instructions
 ---
 
 <p>This Action Pack is intended to execute Microsoft SQL Server Integration Service (SSIS) Packages. <br />The SSIS Packages must be deployed in the Integration Services Catalogs<br />Please note that SSiS only excepts request from Windows users which uses Windows Authentication. Please make sure that the the SQL Agent accordingly configured</p>
-<p>Special thanks to Leonard Olteanu. This action based primarily on his input</p>
 
 Copyright and License
 ---
