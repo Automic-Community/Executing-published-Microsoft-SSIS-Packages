@@ -27,7 +27,9 @@ Contents of Solution Package:
 Documenation and Instructions
 ---
 
-<p>This Action Pack is intended to execute Microsoft SQL Server Integration Service (SSIS) Packages. <br />The SSIS Packages must be deployed in the Integration Services Catalogs<br />Please note that SSiS only excepts request from Windows users which uses Windows Authentication. Please make sure that the the SQL Agent accordingly configured</p>
+<p>This Action Pack is intended to execute Microsoft SQL Server Integration Service (SSIS) Packages</p>
+<p>The SSIS Packages must be deployed in the Integration Services Catalogs</p>
+<p>Please note that SSIS only accepts requests from Windows users which uses Windows Authentication - Please make sure that the SQL Agent is configured&nbsp;accordingly</p>
 
 Copyright and License
 ---
